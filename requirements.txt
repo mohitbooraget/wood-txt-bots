@@ -1,0 +1,16 @@
+gunicorn==20.1.0
+pyrogram==2.0.106
+tgcrypto
+requests
+pyromod==1.5
+aiohttp
+aiofiles
+opencv-python-headless
+psutil
+speedtest-cli 
+pymediainfo
+ffmpeg
+ffprobe
+asyncio
+humanize
+yt-dlp
